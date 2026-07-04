@@ -95,15 +95,6 @@ Number of vowels       : 9
 
 ---
 
-## 📁 Repository Structure
-```
-.
-├── README.md
-└── sentence_analysis.py
-```
-
----
-
 ## 🎯 Checkpoint Requirements Covered
 - ✅ Uses **exactly 3 counter variables**: `length`, `words`, `vowels`.
 - ✅ Processes the sentence **character by character** (no shortcut built-ins used for the core logic).
